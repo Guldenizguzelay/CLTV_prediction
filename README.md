@@ -7,6 +7,8 @@ Customer Lifetime Value (CLTV) Prediction Using BG-NBD and Gamma-Gamma Models
 Dataset
 The dataset is sourced from the Online Retail II dataset, which contains sales data from an online retail store in the UK from 01/12/2009 to 09/12/2011.
 
+Data set : https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
 # Features:
 * InvoiceNo: Unique invoice number (invoices starting with 'C' indicate cancellations).
 * StockCode: Unique product code.
